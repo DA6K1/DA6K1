@@ -25,4 +25,4 @@ const Dark = {
 ---
 
 ### Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-1/1166861703984717871.png)
+![Discord]([https://discord.c99.nl/widget/theme-1/1166861703984717871.png](https://discord.c99.nl/widget/theme-1/1166861703984717871.png))
