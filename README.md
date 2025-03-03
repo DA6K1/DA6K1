@@ -1,16 +1,28 @@
-## Hi there 👋
+### GitHub Stats 🌟
+![Zsl8's github stats](https://github-readme-stats.vercel.app/api?username=Zsl8&count_private=true&show_icons=true&theme=github_dark)
 
-<!--
-**DA6K1/DA6K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Zsl8?tab=followers">
+  <img src="https://img.shields.io/github/followers/Zsl8">
+</a>
+<a href="https://github.com/Zsl8">
+   <img src="https://komarev.com/ghpvc/?username=Zsl8">
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 👤
+
+```js
+const Zdot = {
+  Name: "Zaid",
+  Age: 19,
+  From: "iraq 🇮🇶",
+  Skills: [js, python, react-js, node-js, html , css, next-js, react-native],
+  Discord: "zd8"
+};
+```
+
+---
+
+### Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/1166861703984717871.png)
