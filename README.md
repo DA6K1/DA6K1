@@ -22,9 +22,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
+```js
+const Dark = {
+  Name: "Dark",
+  Age: 17,
+  From: "Eg",
+  Skills: [js, python, react-js, node-js, html , css, next-js, react-native],
+  Discord: "_mm0"
+};
+```
