@@ -1,33 +1,42 @@
-<h2 align="left">Hello,Iam,Dark</h2>
+<div align="center">
 
-###
+<img src="https://i.imgur.com/Xy7XH4E.gif" width="100%">
 
-<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFlbXBwYWtsb296aGF1NGQ3MGo0dGEzZWZ4ZXhybHVuOW5yMTU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Web+Developer;Discord+Bot+Architect" alt="Typing Title">
+</a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?logo=nodedotjs&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge">
 </div>
 
-###
+<h2 align="center">🌐 Web Development Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vercel,git&perline=7&theme=light">
+</div>
 
-```js
-const Dark = {
-  Name: "Dark",
-  Age: 17,
-  From: "Eg",
-  Skills: [js, python, react-js, node-js, html , css, next-js, react-native],
-  Discord: "_mm0"
-};
-```
+<h2 align="center">🤖 Discord Bots Development</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord,bots,js,ts,nodejs,replit,aws,redis&theme=dark">
+</div>
+
+<h2 align="center">📞 Contact Me</h2>
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<img src="https://i.imgur.com/3Jp7VtG.gif" width="100%">
+
+</div>
