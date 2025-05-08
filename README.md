@@ -13,8 +13,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js&perline=7&theme=light">
   </div>
 
-  <h2 align="center">Programming Languages</h2>
-  <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h2 align="center">🚀 Languages I Work With</h2>
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,c&theme=light">
   </div>
 
@@ -30,5 +30,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
+
+  <br>
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" alt="Centered GIF" style="max-width: 100%; border-radius: 10px;">
+  </div>
 </div>
-<img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif">
