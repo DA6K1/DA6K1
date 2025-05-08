@@ -15,7 +15,6 @@
 
   <h2 align="center">Programming Languages</h2>
   <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://i.pinimg.com/236x/76/c9/6a/76c96a3666f28cd58dc556f4714c9a4a.jpg" alt="Side Image" style="border-radius: 10px; height: 150px;">
     <img src="https://skillicons.dev/icons?i=python,cs,c&theme=light">
   </div>
 
@@ -32,3 +31,4 @@
     </a>
   </div>
 </div>
+[Ahmed]([https://lanyard.cnrad.dev/api/1166861703984717871?theme=dark)](https://discord.com/users/1166861703984717871](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif))
