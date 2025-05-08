@@ -31,4 +31,4 @@
     </a>
   </div>
 </div>
-[Ahmed]([https://lanyard.cnrad.dev/api/1166861703984717871?theme=dark)](https://discord.com/users/1166861703984717871](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif))
+<img src="https://skillicons.dev/icons?i=python,cs,c&theme=light](https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif">
