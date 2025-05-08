@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=70&lines=Software Engineering Student+Web+Developer;Junior Frontend" alt="Typing Title">
+ <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=30&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&height=70&lines=Student+Software+Engineer;Web+Developer+%2F+Junior+Frontend+Developer" alt="Typing Title">
 </a>
 
 <div align="center">
