@@ -11,7 +11,7 @@
 
 <h2 align="center">Web Development Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vercel,git&perline=7&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=7&theme=light">
 </div>
 
 <h2 align="center">Discord Bots Development</h2>
@@ -21,10 +21,10 @@
 
 <h2 align="center">Contact Me</h2>
 <div align="center">
-  <a href="#">
+  <a href="ahmed.hamdi.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://discord.com/users/1166861703984717871" target="_blank">
+  <a href="https://discord.com/users/955778442425683988" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   </a>
