@@ -30,4 +30,4 @@
   </a>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1166861703984717871?theme=dark)](https://discord.com/users/1166861703984717871)
+ <img src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif" alt="Centered GIF" style="max-width: 100%; border-radius: 10px;">
